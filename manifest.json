@@ -16,12 +16,19 @@
     {
       "src": "logo512.png",
       "type": "image/png",
+<<<<<<< HEAD
       "sizes": "512x512",
       "purpose": "maskable"
     }
   ],
   "id": "/?source=pwa",
   "start_url": "/?source=pwa",
+=======
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+>>>>>>> 4cbc024de0199b3644e8de03e671cda4d50cc1cd
   "display": "standalone",
   "theme_color": "#103059",
   "background_color": "#ffffff"
